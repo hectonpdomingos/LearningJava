@@ -5,7 +5,7 @@ package aprendizadojava;
  * and open the template in the editor.
  */
 import java.util.Random;
-package aprendizadojava;
+
 
 /**
  *
@@ -39,4 +39,4 @@ public class Array_Elementos_como_contadores {
         
     }
     
-}
+

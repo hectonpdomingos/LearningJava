@@ -5,7 +5,7 @@
 
 //importe a função que permite gerar numeros aleatorios
 import java.util.Random;
-package aprendizadojava;
+
 
 /**
  *

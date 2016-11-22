@@ -11,6 +11,8 @@ public class Car_rent {
         Car porshe = new Car();
 
         ferrari.setModelo("F350");
+        System.out.println("O modelo é: " + ferrari.getModelo());
     }
+
 }
 

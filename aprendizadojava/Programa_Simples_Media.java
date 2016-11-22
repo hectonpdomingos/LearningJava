@@ -6,7 +6,7 @@ package aprendizadojava;
  */
 //importando a lib para colocar dados no programa o Scanner
 import java.util.Scanner;
-package aprendizadojava;
+
 
 /**
  *
