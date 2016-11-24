@@ -14,8 +14,7 @@ public class VipPerson {
     }
 
     public VipPerson(String name, double creditLimit) {
-        this.name = name;
-        this.creditLimit = creditLimit;
+        this(name, creditLimit, "unknow@gmail.com");
     }
 
     public VipPerson(String name, double creditLimit, String emailAddress) {

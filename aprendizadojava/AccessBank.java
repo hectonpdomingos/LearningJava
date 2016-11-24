@@ -22,7 +22,7 @@ public class AccessBank {
 */
 
 
-        account.withdrawal(100.0);
+    /*    account.withdrawal(100.0);
         account.deposit(50.0);
         account.withdrawal(100.0);
         account.deposit(51.0);
@@ -30,5 +30,9 @@ public class AccessBank {
 
         Account hectonAccount = new Account("Hecton", "hec@memail", "1234");
         System.out.println(hectonAccount.getNumber() + " name " + hectonAccount.getCustomerName());
+    */
+
+
+
     }
 }
