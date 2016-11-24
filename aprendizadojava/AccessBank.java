@@ -28,5 +28,7 @@ public class AccessBank {
         account.deposit(51.0);
         account.withdrawal(100.0);
 
+        Account hectonAccount = new Account("Hecton", "hec@memail", "1234");
+        System.out.println(hectonAccount.getNumber() + " name " + hectonAccount.getCustomerName());
     }
 }
