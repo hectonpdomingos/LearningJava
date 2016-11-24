@@ -8,7 +8,7 @@ public class AccessAnimalClass {
         Animal animal = new Animal("Animal", 1, 1, 5, 5);
         AnimalDog dog = new AnimalDog("Bulldog", 8, 20,2,4,1,20, "long silky");
         dog.eat();
-        dog.walk();
+       // dog.walk();
         dog.run();
     }
 }
