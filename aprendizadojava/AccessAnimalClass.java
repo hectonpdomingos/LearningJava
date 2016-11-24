@@ -6,7 +6,7 @@ package aprendizadojava;
 public class AccessAnimalClass {
     public static void main(String[] args){
         Animal animal = new Animal("Animal", 1, 1, 5, 5);
-        AnimalDog dog = new AnimalDog("Yokie", 8, 20,2,4,1,20, "long silky");
+        AnimalDog dog = new AnimalDog("Bulldog", 8, 20,2,4,1,20, "long silky");
         dog.eat();
     }
 }
