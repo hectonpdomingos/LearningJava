@@ -31,4 +31,14 @@ public class AnimalDog extends Animal {
         shew();
         super.eat();
     }
+    public void walk(){
+        System.out.println("Dog.walk() called");
+        move(5);
+    }
+    public void run(){
+    System.out.println("Dog.run() called");
+        move(15);
+
+    }
+
 }
