@@ -12,9 +12,13 @@ public class Car {
     private String cor;
 
     //method
-    public void setModelo(String modelo){
+
+    public void setModelo(String modelo)
+    {
         this.modelo = modelo;
     }
+
+
     public String getModelo(){
         return this.modelo;
 
