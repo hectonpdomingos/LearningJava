@@ -21,8 +21,14 @@ public class AnimalDog extends Animal {
         this.teeth = teeth;
         this.coat = coat;
     }
+
+
+
     private void shew(){
         System.out.println("Dog.shew() called");
+    }
+    public void name(){
+        System.out.println("Dog.name() called " + super.getName());
     }
 
     @Override

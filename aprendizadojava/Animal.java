@@ -21,14 +21,16 @@ public class Animal {
         this.weight = weight;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public void eat(){
 
         System.out.println("Animal.eat() called");
     }
     public void move(int speed){
         System.out.println("Animal.move() called. Animal is moving at " + speed);
-
-
     }
 
 
